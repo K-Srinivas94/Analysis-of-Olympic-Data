@@ -1,0 +1,75 @@
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+import sys
+
+df = pd.read_csv('athlete_events.csv')
+dr = pd.read_csv('rd1.csv')	
+# print(df)
+
+a2 = df[df['Season']=='Summer']
+a2.to_csv("summer.csv",index = False)
+ds = pd.read_csv('summer.csv')
+#print(ds)
+
+a3 = df[df['Season']=='Winter']
+a3.to_csv('winter.csv', index = False)
+dw = pd.read_csv('winter.csv')
+#print(dw)
+
+#total no of participants
+
+df[df.NOC == 'IND']['Name'].nunique()
+
+#Total no of people participated in winter olympics
+
+df[df.NOC == 'IND'][df.Season=='Winter']['Name'].nunique()
+
+#Total no of people participated in summer olympics
+
+df[df.NOC == 'IND'][df.Season=='Summer']['Name'].nunique()
+
+#events india has participated
+
+df[df.NOC == 'IND']['Event'].nunique()
+
+#events india won medals in
+
+dr[dr.NOC == 'IND']['Event'].nunique()
+
+
+#INDIA select the country
+df = pd.concat([df,pd.get_dummies(df.Medal)],axis=1)
+df['allmedals'] = df['allmedals'] = df['Bronze'] + df['Gold'] + df['Silver'] 
+dfindia = df[df.NOC == 'IND']
+
+#count of total of medals won by india
+dfindia.groupby(['Year','Event'],as_index=False).max()['allmedals'].sum()
+
+
+#medals won in each category till date
+
+
+dfindyear = dfindia.groupby(['Year','Event','Sport'],as_index=False).max()
+dfindyears = dfindyear.groupby(['Year', 'Sport'],as_index=False).sum()
+dfindyear = dfindyear.groupby(['Year'],as_index=False).sum()
+z= dfindyears.sort_values('allmedals', ascending = False).head(30)
+t= z.groupby('Sport').agg({'allmedals':'count'})
+
+
+#bar graph of medals won through the years
+
+plt.plot(dfindyear.Year,dfindyear.allmedals,)
+plt.plot(dfindyear.Year,dfindyear.allmedals,'bo')
+plt.yticks(range(0,8))
+plt.xticks(range(1900,2018,4),rotation = 90)
+plt.xlabel('Year')
+plt.ylabel('No of Medals')
+fig = plt.gcf()
+fig.set_size_inches(18.5, 10.5)
+
+plt.show()
+
+
+

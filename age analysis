@@ -1,0 +1,35 @@
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+import sys
+
+#dx = pd.read_csv("dataset.csv")
+df = pd.read_csv('athlete_events.csv')
+dr = pd.read_csv('rd1.csv')
+#print(df)
+
+ds = pd.read_csv('summer.csv')
+#print(ds)
+
+dw = pd.read_csv('winter.csv')
+#print(dw)
+dm
+
+#Age at which a player won most no of medals
+
+medals = df
+#medals.head()
+medals = medals[np.isfinite(medals['Age'])]
+
+plt.figure(figsize=(20,10))
+plt.tight_layout()
+sns.countplot(medals['Age'])
+plt.title('Medal distribution')
+
+
+#Average age of male participated vs  avg age of male medal winner
+
+#average age of female participated + avg age at female medal won
+
+

@@ -1,0 +1,69 @@
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+import sys
+
+df = pd.read_csv('athlete_events.csv')
+dr = pd.read_csv('rd1.csv')	
+# print(df)
+
+a2 = df[df['Season']=='Summer']
+a2.to_csv("summer.csv",index = False)
+ds = pd.read_csv('summer.csv')
+#print(ds)
+
+a3 = df[df['Season']=='Winter']
+a3.to_csv('winter.csv', index = False)
+dw = pd.read_csv('winter.csv')
+#print(dw)
+
+ #summer + winter total participation
+
+groupedYearID = df.groupby(['Year','ID'],as_index=False).count()[['Year','ID']]
+groupedYearID = groupedYearID.groupby('Year',as_index=False).count()
+
+l = []
+for i in [1994,1998,2002,2006,2010,2014]: #The year of winter olympics
+    l.append(groupedYearID[groupedYearID.Year == i].index[0])
+
+for i in l:
+    groupedYearID.loc[i,'Year'] = groupedYearID.loc[i,'Year'] +2
+
+groupedYearID = groupedYearID.groupby('Year',as_index=False).sum()
+
+sns.set(rc={'figure.figsize':(18,12)})
+plot1 = sns.barplot('Year','ID',data=groupedYearID).set_xticklabels(groupedYearID.Year,rotation=82)
+#plot1.set(xlabel='YEAR',ylabel='Number of people')
+plt.xlabel("YEAR")
+plt.ylabel("PARTICIPANTS")
+
+
+#MALE, Female Players count
+
+
+groupedGender = pd.concat([df,pd.get_dummies(df.Sex)],axis=1).groupby(['Year','ID'],as_index = False).sum()
+groupedGender[['Year','ID','F','M']].head()
+
+groupedGender.F = groupedGender.F.apply(lambda x: 0 if x==0 else 1)
+groupedGender.M = groupedGender.M.apply(lambda x: 0 if x==0 else 1)
+
+groupedGender = groupedGender.groupby('Year',as_index=False).sum()
+for i in l:
+    groupedGender.loc[i,'Year'] = groupedGender.loc[i,'Year'] +2
+
+groupedGender = groupedGender.groupby('Year',as_index=False).sum()
+
+groupedGender
+
+#Line plot
+plt.plot(groupedGender.Year,groupedGender.M)
+plt.plot(groupedGender.Year,groupedGender.F,color='red')
+
+plt.plot(groupedGender.Year,groupedGender.M,'bo')
+plt.plot(groupedGender.Year,groupedGender.F,'bo',color ='red')
+
+plt.legend(['Male','Female'])
+plt.xlabel("YEAR")
+plt.ylabel("PARTICIPANTS")
+

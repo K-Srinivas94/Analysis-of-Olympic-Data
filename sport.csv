@@ -1,0 +1,1201 @@
+,Sport,NOC,Medal
+0,Aeronautics,SUI,1
+1,Alpinism,GER,2
+2,Alpinism,SUI,2
+3,Archery,AUS,5
+4,Archery,BEL,52
+5,Archery,CHN,19
+6,Archery,ESP,3
+7,Archery,EUN,4
+8,Archery,FIN,6
+9,Archery,FRA,48
+10,Archery,GBR,13
+11,Archery,GER,7
+12,Archery,INA,3
+13,Archery,ITA,15
+14,Archery,JPN,7
+15,Archery,KOR,69
+16,Archery,MEX,2
+17,Archery,NED,9
+18,Archery,POL,4
+19,Archery,RUS,4
+20,Archery,SWE,2
+21,Archery,TPE,9
+22,Archery,UKR,8
+23,Archery,URS,7
+24,Archery,USA,57
+25,Art Competitions,AUT,10
+26,Art Competitions,BEL,8
+27,Art Competitions,CAN,2
+28,Art Competitions,DEN,9
+29,Art Competitions,FIN,5
+30,Art Competitions,FRA,15
+31,Art Competitions,GBR,9
+32,Art Competitions,GER,26
+33,Art Competitions,GRE,1
+34,Art Competitions,HUN,5
+35,Art Competitions,IRL,3
+36,Art Competitions,ITA,14
+37,Art Competitions,JPN,2
+38,Art Competitions,LUX,3
+39,Art Competitions,MON,1
+40,Art Competitions,NED,7
+41,Art Competitions,NOR,1
+42,Art Competitions,POL,8
+43,Art Competitions,RSA,2
+44,Art Competitions,SUI,9
+45,Art Competitions,SWE,4
+46,Art Competitions,TCH,3
+47,Art Competitions,USA,9
+48,Athletics,ALG,9
+49,Athletics,ANZ,1
+50,Athletics,ARG,5
+51,Athletics,AUS,87
+52,Athletics,AUT,7
+53,Athletics,BAH,36
+54,Athletics,BAR,1
+55,Athletics,BDI,2
+56,Athletics,BEL,16
+57,Athletics,BLR,17
+58,Athletics,BOH,1
+59,Athletics,BOT,1
+60,Athletics,BRA,26
+61,Athletics,BRN,3
+62,Athletics,BUL,19
+63,Athletics,CAN,98
+64,Athletics,CHI,2
+65,Athletics,CHN,27
+66,Athletics,CIV,1
+67,Athletics,CMR,2
+68,Athletics,COL,3
+69,Athletics,CRO,5
+70,Athletics,CUB,58
+71,Athletics,CZE,12
+72,Athletics,DEN,7
+73,Athletics,DJI,1
+74,Athletics,DOM,3
+75,Athletics,ECU,2
+76,Athletics,ERI,1
+77,Athletics,ESP,14
+78,Athletics,EST,6
+79,Athletics,ETH,53
+80,Athletics,EUN,29
+81,Athletics,FIN,138
+82,Athletics,FRA,114
+83,Athletics,FRG,71
+84,Athletics,GBR,336
+85,Athletics,GDR,140
+86,Athletics,GER,153
+87,Athletics,GRE,27
+88,Athletics,GRN,2
+89,Athletics,GUA,1
+90,Athletics,HAI,1
+91,Athletics,HUN,49
+92,Athletics,IND,2
+93,Athletics,IRI,1
+94,Athletics,IRL,6
+95,Athletics,ISL,2
+96,Athletics,ITA,72
+97,Athletics,JAM,156
+98,Athletics,JPN,31
+99,Athletics,KAZ,4
+100,Athletics,KEN,99
+101,Athletics,KOR,2
+102,Athletics,KSA,1
+103,Athletics,LAT,5
+104,Athletics,LTU,5
+105,Athletics,LUX,2
+106,Athletics,MAR,19
+107,Athletics,MEX,11
+108,Athletics,MOZ,2
+109,Athletics,NAM,4
+110,Athletics,NED,22
+111,Athletics,NGR,41
+112,Athletics,NOR,20
+113,Athletics,NZL,24
+114,Athletics,PAN,3
+115,Athletics,PHI,2
+116,Athletics,POL,72
+117,Athletics,POR,10
+118,Athletics,PUR,1
+119,Athletics,QAT,3
+120,Athletics,ROU,35
+121,Athletics,RSA,31
+122,Athletics,RUS,103
+123,Athletics,SEN,1
+124,Athletics,SLO,4
+125,Athletics,SRB,1
+126,Athletics,SRI,2
+127,Athletics,SUD,1
+128,Athletics,SUI,8
+129,Athletics,SVK,1
+130,Athletics,SWE,128
+131,Athletics,SYR,1
+132,Athletics,TAN,2
+133,Athletics,TCH,24
+134,Athletics,TJK,1
+135,Athletics,TPE,2
+136,Athletics,TTO,28
+137,Athletics,TUN,5
+138,Athletics,TUR,6
+139,Athletics,UGA,3
+140,Athletics,UKR,21
+141,Athletics,URS,242
+142,Athletics,USA,1063
+143,Athletics,VEN,2
+144,Athletics,WIF,5
+145,Athletics,YUG,2
+146,Athletics,ZAM,1
+147,Badminton,CHN,64
+148,Badminton,DEN,12
+149,Badminton,ESP,1
+150,Badminton,GBR,6
+151,Badminton,INA,28
+152,Badminton,IND,2
+153,Badminton,JPN,5
+154,Badminton,KOR,35
+155,Badminton,MAS,12
+156,Badminton,NED,1
+157,Badminton,RUS,2
+158,Baseball,AUS,24
+159,Baseball,CUB,112
+160,Baseball,JPN,64
+161,Baseball,KOR,48
+162,Baseball,TPE,20
+163,Baseball,USA,68
+164,Basketball,ARG,24
+165,Basketball,AUS,60
+166,Basketball,BRA,58
+167,Basketball,BUL,24
+168,Basketball,CAN,9
+169,Basketball,CHN,23
+170,Basketball,CRO,12
+171,Basketball,CUB,12
+172,Basketball,ESP,60
+173,Basketball,EUN,12
+174,Basketball,FRA,38
+175,Basketball,ITA,24
+176,Basketball,KOR,11
+177,Basketball,LTU,35
+178,Basketball,MEX,11
+179,Basketball,RUS,36
+180,Basketball,SCG,12
+181,Basketball,SRB,24
+182,Basketball,URS,146
+183,Basketball,URU,24
+184,Basketball,USA,341
+185,Basketball,YUG,84
+186,Basque Pelota,ESP,2
+187,Beach Volleyball,AUS,4
+188,Beach Volleyball,BRA,26
+189,Beach Volleyball,CAN,2
+190,Beach Volleyball,CHN,4
+191,Beach Volleyball,ESP,2
+192,Beach Volleyball,GER,6
+193,Beach Volleyball,ITA,2
+194,Beach Volleyball,LAT,2
+195,Beach Volleyball,NED,2
+196,Beach Volleyball,SUI,2
+197,Beach Volleyball,USA,20
+198,Boxing,ALG,6
+199,Boxing,ANZ,1
+200,Boxing,ARG,24
+201,Boxing,ARM,1
+202,Boxing,AUS,4
+203,Boxing,AZE,8
+204,Boxing,BEL,4
+205,Boxing,BER,1
+206,Boxing,BLR,2
+207,Boxing,BRA,5
+208,Boxing,BUL,18
+209,Boxing,CAN,17
+210,Boxing,CHI,3
+211,Boxing,CHN,12
+212,Boxing,CMR,2
+213,Boxing,COL,5
+214,Boxing,CRO,1
+215,Boxing,CUB,73
+216,Boxing,CZE,1
+217,Boxing,DEN,12
+218,Boxing,DOM,2
+219,Boxing,EGY,3
+220,Boxing,ESP,4
+221,Boxing,EST,1
+222,Boxing,EUN,2
+223,Boxing,FIN,15
+224,Boxing,FRA,25
+225,Boxing,FRG,6
+226,Boxing,GBR,56
+227,Boxing,GDR,13
+228,Boxing,GEO,1
+229,Boxing,GER,29
+230,Boxing,GHA,3
+231,Boxing,GUY,1
+232,Boxing,HUN,20
+233,Boxing,IND,2
+234,Boxing,IRL,16
+235,Boxing,ITA,47
+236,Boxing,JPN,5
+237,Boxing,KAZ,22
+238,Boxing,KEN,7
+239,Boxing,KOR,20
+240,Boxing,LTU,1
+241,Boxing,MAR,4
+242,Boxing,MDA,2
+243,Boxing,MEX,13
+244,Boxing,MGL,7
+245,Boxing,MRI,1
+246,Boxing,NED,7
+247,Boxing,NGR,6
+248,Boxing,NIG,1
+249,Boxing,NOR,5
+250,Boxing,NZL,3
+251,Boxing,PAK,1
+252,Boxing,PHI,5
+253,Boxing,POL,43
+254,Boxing,PRK,8
+255,Boxing,PUR,6
+256,Boxing,ROU,25
+257,Boxing,RSA,19
+258,Boxing,RUS,30
+259,Boxing,SWE,11
+260,Boxing,SYR,1
+261,Boxing,TCH,6
+262,Boxing,TGA,1
+263,Boxing,THA,14
+264,Boxing,TJK,1
+265,Boxing,TUN,2
+266,Boxing,TUR,5
+267,Boxing,UAR,1
+268,Boxing,UGA,4
+269,Boxing,UKR,14
+270,Boxing,URS,51
+271,Boxing,URU,1
+272,Boxing,USA,113
+273,Boxing,UZB,14
+274,Boxing,VEN,6
+275,Boxing,YUG,11
+276,Boxing,ZAM,1
+277,Canoeing,AUS,41
+278,Canoeing,AUT,21
+279,Canoeing,AZE,2
+280,Canoeing,BLR,22
+281,Canoeing,BRA,4
+282,Canoeing,BUL,28
+283,Canoeing,CAN,33
+284,Canoeing,CHN,4
+285,Canoeing,CUB,5
+286,Canoeing,CZE,24
+287,Canoeing,DEN,22
+288,Canoeing,ESP,24
+289,Canoeing,EUN,3
+290,Canoeing,FIN,14
+291,Canoeing,FRA,53
+292,Canoeing,FRG,14
+293,Canoeing,GBR,22
+294,Canoeing,GDR,52
+295,Canoeing,GER,163
+296,Canoeing,HUN,158
+297,Canoeing,ISR,1
+298,Canoeing,ITA,23
+299,Canoeing,JPN,1
+300,Canoeing,LAT,2
+301,Canoeing,LTU,3
+302,Canoeing,MDA,2
+303,Canoeing,NED,12
+304,Canoeing,NOR,22
+305,Canoeing,NZL,18
+306,Canoeing,POL,37
+307,Canoeing,POR,2
+308,Canoeing,ROU,67
+309,Canoeing,RSA,1
+310,Canoeing,RUS,22
+311,Canoeing,SLO,2
+312,Canoeing,SRB,2
+313,Canoeing,SUI,4
+314,Canoeing,SVK,32
+315,Canoeing,SWE,57
+316,Canoeing,TCH,18
+317,Canoeing,TOG,1
+318,Canoeing,UKR,12
+319,Canoeing,URS,87
+320,Canoeing,USA,21
+321,Canoeing,YUG,7
+322,Cricket,FRA,3
+323,Cricket,GBR,21
+324,Croquet,FRA,8
+325,Cycling,ARG,2
+326,Cycling,AUS,84
+327,Cycling,BEL,47
+328,Cycling,BLR,1
+329,Cycling,CAN,23
+330,Cycling,CHN,9
+331,Cycling,COL,6
+332,Cycling,CUB,1
+333,Cycling,CZE,2
+334,Cycling,DEN,52
+335,Cycling,ESP,19
+336,Cycling,EST,1
+337,Cycling,FRA,145
+338,Cycling,FRG,28
+339,Cycling,GBR,180
+340,Cycling,GDR,33
+341,Cycling,GER,93
+342,Cycling,HKG,1
+343,Cycling,ITA,124
+344,Cycling,JAM,1
+345,Cycling,JPN,6
+346,Cycling,KAZ,2
+347,Cycling,LAT,3
+348,Cycling,LTU,1
+349,Cycling,MAS,1
+350,Cycling,MEX,2
+351,Cycling,NED,67
+352,Cycling,NOR,4
+353,Cycling,NZL,18
+354,Cycling,POL,24
+355,Cycling,POR,1
+356,Cycling,RSA,16
+357,Cycling,RUS,24
+358,Cycling,SUI,26
+359,Cycling,SWE,48
+360,Cycling,TCH,13
+361,Cycling,UKR,6
+362,Cycling,URS,53
+363,Cycling,URU,1
+364,Cycling,USA,78
+365,Cycling,VEN,1
+366,Diving,AUS,20
+367,Diving,AUT,1
+368,Diving,CAN,18
+369,Diving,CHN,88
+370,Diving,DEN,2
+371,Diving,EGY,2
+372,Diving,EUN,3
+373,Diving,FRA,1
+374,Diving,GBR,13
+375,Diving,GDR,7
+376,Diving,GER,30
+377,Diving,GRE,2
+378,Diving,ITA,12
+379,Diving,MAS,3
+380,Diving,MEX,17
+381,Diving,RUS,27
+382,Diving,SWE,21
+383,Diving,TCH,2
+384,Diving,UKR,4
+385,Diving,URS,14
+386,Diving,USA,140
+387,Equestrianism,ARG,1
+388,Equestrianism,AUS,37
+389,Equestrianism,AUT,6
+390,Equestrianism,BEL,23
+391,Equestrianism,BRA,9
+392,Equestrianism,BUL,3
+393,Equestrianism,CAN,17
+394,Equestrianism,CHI,4
+395,Equestrianism,DEN,8
+396,Equestrianism,ESP,11
+397,Equestrianism,FRA,79
+398,Equestrianism,FRG,62
+399,Equestrianism,GBR,83
+400,Equestrianism,GER,143
+401,Equestrianism,HUN,1
+402,Equestrianism,IRL,1
+403,Equestrianism,ITA,46
+404,Equestrianism,JPN,1
+405,Equestrianism,KSA,5
+406,Equestrianism,MEX,17
+407,Equestrianism,NED,56
+408,Equestrianism,NOR,3
+409,Equestrianism,NZL,23
+410,Equestrianism,POL,15
+411,Equestrianism,POR,10
+412,Equestrianism,ROU,4
+413,Equestrianism,SUI,50
+414,Equestrianism,SWE,85
+415,Equestrianism,TCH,1
+416,Equestrianism,URS,29
+417,Equestrianism,USA,132
+418,Fencing,ARG,5
+419,Fencing,AUT,13
+420,Fencing,BEL,48
+421,Fencing,BOH,6
+422,Fencing,CHN,30
+423,Fencing,CUB,20
+424,Fencing,DEN,5
+425,Fencing,EGY,1
+426,Fencing,ESP,1
+427,Fencing,EUN,13
+428,Fencing,FRA,307
+429,Fencing,FRG,48
+430,Fencing,GBR,28
+431,Fencing,GDR,1
+432,Fencing,GER,73
+433,Fencing,GRE,7
+434,Fencing,HUN,236
+435,Fencing,ITA,359
+436,Fencing,JPN,5
+437,Fencing,KOR,20
+438,Fencing,MEX,1
+439,Fencing,NED,31
+440,Fencing,NOR,1
+441,Fencing,POL,82
+442,Fencing,POR,6
+443,Fencing,ROU,47
+444,Fencing,RUS,62
+445,Fencing,SUI,23
+446,Fencing,SWE,26
+447,Fencing,TUN,1
+448,Fencing,UKR,12
+449,Fencing,URS,146
+450,Fencing,USA,69
+451,Fencing,VEN,1
+452,Figure Skating,FIN,2
+453,Figure Skating,GBR,10
+454,Figure Skating,GER,3
+455,Figure Skating,NOR,4
+456,Figure Skating,RUS,1
+457,Figure Skating,SWE,6
+458,Figure Skating,USA,1
+459,Football,ARG,68
+460,Football,AUT,13
+461,Football,BEL,23
+462,Football,BRA,136
+463,Football,BUL,32
+464,Football,CAN,49
+465,Football,CHI,17
+466,Football,CHN,15
+467,Football,CMR,18
+468,Football,DEN,65
+469,Football,ESP,52
+470,Football,FRA,32
+471,Football,FRG,18
+472,Football,GBR,45
+473,Football,GDR,51
+474,Football,GER,104
+475,Football,GHA,20
+476,Football,GRE,11
+477,Football,HUN,79
+478,Football,ITA,48
+479,Football,JPN,34
+480,Football,KOR,18
+481,Football,MEX,16
+482,Football,NED,42
+483,Football,NGR,50
+484,Football,NOR,47
+485,Football,PAR,17
+486,Football,POL,50
+487,Football,SUI,15
+488,Football,SWE,60
+489,Football,TCH,33
+490,Football,URS,87
+491,Football,URU,31
+492,Football,USA,102
+493,Football,YUG,73
+494,Golf,CAN,1
+495,Golf,CHN,1
+496,Golf,GBR,3
+497,Golf,KOR,1
+498,Golf,NZL,1
+499,Golf,SWE,1
+500,Golf,USA,38
+501,Gymnastics,AUT,3
+502,Gymnastics,BEL,48
+503,Gymnastics,BLR,4
+504,Gymnastics,BRA,4
+505,Gymnastics,BUL,10
+506,Gymnastics,CAN,1
+507,Gymnastics,CHN,109
+508,Gymnastics,CRO,1
+509,Gymnastics,DEN,111
+510,Gymnastics,ESP,4
+511,Gymnastics,EUN,28
+512,Gymnastics,FIN,99
+513,Gymnastics,FRA,58
+514,Gymnastics,FRG,1
+515,Gymnastics,GBR,51
+516,Gymnastics,GDR,86
+517,Gymnastics,GER,49
+518,Gymnastics,GRE,6
+519,Gymnastics,HUN,111
+520,Gymnastics,ITA,109
+521,Gymnastics,JPN,166
+522,Gymnastics,KOR,9
+523,Gymnastics,LAT,2
+524,Gymnastics,NED,12
+525,Gymnastics,NOR,121
+526,Gymnastics,POL,9
+527,Gymnastics,PRK,3
+528,Gymnastics,ROU,135
+529,Gymnastics,RUS,83
+530,Gymnastics,SUI,81
+531,Gymnastics,SWE,103
+532,Gymnastics,TCH,78
+533,Gymnastics,UKR,23
+534,Gymnastics,URS,288
+535,Gymnastics,USA,194
+536,Gymnastics,UZB,1
+537,Gymnastics,YUG,18
+538,Handball,AUT,22
+539,Handball,CHN,13
+540,Handball,CRO,46
+541,Handball,DEN,59
+542,Handball,ESP,60
+543,Handball,EUN,25
+544,Handball,FRA,77
+545,Handball,FRG,15
+546,Handball,GDR,42
+547,Handball,GER,52
+548,Handball,HUN,45
+549,Handball,ISL,14
+550,Handball,KOR,96
+551,Handball,MNE,14
+552,Handball,NOR,85
+553,Handball,POL,14
+554,Handball,ROU,58
+555,Handball,RUS,58
+556,Handball,SUI,17
+557,Handball,SWE,61
+558,Handball,TCH,16
+559,Handball,UKR,15
+560,Handball,URS,84
+561,Handball,YUG,72
+562,Hockey,ARG,81
+563,Hockey,AUS,188
+564,Hockey,BEL,30
+565,Hockey,CHN,16
+566,Hockey,DEN,12
+567,Hockey,ESP,77
+568,Hockey,FRG,66
+569,Hockey,GBR,163
+570,Hockey,GER,182
+571,Hockey,IND,173
+572,Hockey,JPN,11
+573,Hockey,KOR,48
+574,Hockey,NED,255
+575,Hockey,NZL,14
+576,Hockey,PAK,119
+577,Hockey,TCH,16
+578,Hockey,URS,32
+579,Hockey,USA,30
+580,Hockey,ZIM,15
+581,Ice Hockey,CAN,8
+582,Ice Hockey,TCH,8
+583,Ice Hockey,USA,11
+584,Jeu De Paume,GBR,2
+585,Jeu De Paume,USA,1
+586,Judo,ALG,2
+587,Judo,ARG,2
+588,Judo,AUS,2
+589,Judo,AUT,5
+590,Judo,AZE,4
+591,Judo,BEL,12
+592,Judo,BLR,2
+593,Judo,BRA,22
+594,Judo,BUL,3
+595,Judo,CAN,5
+596,Judo,CHN,22
+597,Judo,COL,2
+598,Judo,CUB,36
+599,Judo,CZE,1
+600,Judo,EGY,2
+601,Judo,ESP,6
+602,Judo,EST,3
+603,Judo,EUN,4
+604,Judo,FRA,49
+605,Judo,FRG,8
+606,Judo,GBR,19
+607,Judo,GDR,9
+608,Judo,GEO,8
+609,Judo,GER,20
+610,Judo,GRE,2
+611,Judo,HUN,9
+612,Judo,ISL,1
+613,Judo,ISR,5
+614,Judo,ITA,15
+615,Judo,JPN,84
+616,Judo,KAZ,3
+617,Judo,KGZ,1
+618,Judo,KOR,43
+619,Judo,KOS,1
+620,Judo,LAT,1
+621,Judo,MGL,8
+622,Judo,NED,23
+623,Judo,POL,8
+624,Judo,POR,2
+625,Judo,PRK,8
+626,Judo,ROU,6
+627,Judo,RUS,16
+628,Judo,SLO,5
+629,Judo,SUI,4
+630,Judo,SVK,1
+631,Judo,TCH,1
+632,Judo,TJK,1
+633,Judo,TUR,2
+634,Judo,UAE,1
+635,Judo,UKR,3
+636,Judo,URS,23
+637,Judo,USA,14
+638,Judo,UZB,6
+639,Judo,YUG,2
+640,Lacrosse,CAN,36
+641,Lacrosse,GBR,12
+642,Lacrosse,USA,12
+643,Modern Pentathlon,AUS,1
+644,Modern Pentathlon,BLR,1
+645,Modern Pentathlon,BRA,1
+646,Modern Pentathlon,CHN,1
+647,Modern Pentathlon,CZE,2
+648,Modern Pentathlon,EUN,4
+649,Modern Pentathlon,FIN,11
+650,Modern Pentathlon,FRA,7
+651,Modern Pentathlon,GBR,11
+652,Modern Pentathlon,GER,3
+653,Modern Pentathlon,HUN,38
+654,Modern Pentathlon,ITA,13
+655,Modern Pentathlon,KAZ,1
+656,Modern Pentathlon,LAT,1
+657,Modern Pentathlon,LTU,4
+658,Modern Pentathlon,MEX,1
+659,Modern Pentathlon,POL,6
+660,Modern Pentathlon,RUS,5
+661,Modern Pentathlon,SWE,25
+662,Modern Pentathlon,TCH,4
+663,Modern Pentathlon,UKR,2
+664,Modern Pentathlon,URS,27
+665,Modern Pentathlon,USA,17
+666,Motorboating,FRA,1
+667,Motorboating,GBR,6
+668,Polo,ARG,9
+669,Polo,ESP,5
+670,Polo,FRA,4
+671,Polo,GBR,30
+672,Polo,MEX,7
+673,Polo,USA,12
+674,Racquets,GBR,10
+675,Rhythmic Gymnastics,BLR,21
+676,Rhythmic Gymnastics,BUL,18
+677,Rhythmic Gymnastics,CAN,1
+678,Rhythmic Gymnastics,CHN,6
+679,Rhythmic Gymnastics,ESP,12
+680,Rhythmic Gymnastics,EUN,2
+681,Rhythmic Gymnastics,FRG,1
+682,Rhythmic Gymnastics,GRE,6
+683,Rhythmic Gymnastics,ITA,12
+684,Rhythmic Gymnastics,ROU,1
+685,Rhythmic Gymnastics,RUS,45
+686,Rhythmic Gymnastics,UKR,5
+687,Rhythmic Gymnastics,URS,2
+688,Roque,USA,3
+689,Rowing,ARG,6
+690,Rowing,AUS,144
+691,Rowing,AUT,9
+692,Rowing,BEL,30
+693,Rowing,BLR,17
+694,Rowing,BUL,34
+695,Rowing,CAN,203
+696,Rowing,CHN,29
+697,Rowing,CRO,18
+698,Rowing,CZE,8
+699,Rowing,DEN,79
+700,Rowing,ESP,2
+701,Rowing,EST,7
+702,Rowing,EUN,4
+703,Rowing,FIN,16
+704,Rowing,FRA,119
+705,Rowing,FRG,51
+706,Rowing,GBR,270
+707,Rowing,GDR,184
+708,Rowing,GER,236
+709,Rowing,GRE,55
+710,Rowing,HUN,8
+711,Rowing,IRL,2
+712,Rowing,ITA,183
+713,Rowing,LTU,6
+714,Rowing,NED,139
+715,Rowing,NOR,61
+716,Rowing,NZL,69
+717,Rowing,POL,52
+718,Rowing,ROU,175
+719,Rowing,RSA,8
+720,Rowing,RUS,18
+721,Rowing,SLO,12
+722,Rowing,SUI,75
+723,Rowing,SWE,10
+724,Rowing,TCH,45
+725,Rowing,UKR,12
+726,Rowing,URS,155
+727,Rowing,URU,6
+728,Rowing,USA,375
+729,Rowing,YUG,13
+730,Rugby,ANZ,15
+731,Rugby,FRA,49
+732,Rugby,GBR,30
+733,Rugby,GER,15
+734,Rugby,HAI,1
+735,Rugby,ROU,16
+736,Rugby,USA,36
+737,Rugby Sevens,AUS,12
+738,Rugby Sevens,CAN,12
+739,Rugby Sevens,FIJ,13
+740,Rugby Sevens,GBR,12
+741,Rugby Sevens,NZL,12
+742,Rugby Sevens,RSA,13
+743,Sailing,AHO,1
+744,Sailing,ARG,21
+745,Sailing,AUS,53
+746,Sailing,AUT,12
+747,Sailing,BAH,4
+748,Sailing,BEL,19
+749,Sailing,BRA,34
+750,Sailing,CAN,25
+751,Sailing,CHN,6
+752,Sailing,CRO,3
+753,Sailing,CUB,2
+754,Sailing,CYP,1
+755,Sailing,CZE,1
+756,Sailing,DEN,66
+757,Sailing,ESP,33
+758,Sailing,EST,7
+759,Sailing,FIN,35
+760,Sailing,FRA,117
+761,Sailing,FRG,14
+762,Sailing,GBR,143
+763,Sailing,GDR,15
+764,Sailing,GER,40
+765,Sailing,GRE,16
+766,Sailing,HKG,1
+767,Sailing,HUN,2
+768,Sailing,IRL,3
+769,Sailing,ISR,3
+770,Sailing,ISV,1
+771,Sailing,ITA,26
+772,Sailing,JPN,4
+773,Sailing,LTU,1
+774,Sailing,NED,43
+775,Sailing,NOR,125
+776,Sailing,NZL,33
+777,Sailing,POL,4
+778,Sailing,POR,8
+779,Sailing,RUS,11
+780,Sailing,SLO,3
+781,Sailing,SUI,12
+782,Sailing,SWE,113
+783,Sailing,UKR,11
+784,Sailing,URS,20
+785,Sailing,USA,140
+786,Shooting,ARG,1
+787,Shooting,AUS,11
+788,Shooting,AUT,8
+789,Shooting,AZE,3
+790,Shooting,BEL,17
+791,Shooting,BLR,7
+792,Shooting,BRA,8
+793,Shooting,BUL,16
+794,Shooting,CAN,24
+795,Shooting,CHI,1
+796,Shooting,CHN,56
+797,Shooting,COL,2
+798,Shooting,CRO,3
+799,Shooting,CUB,4
+800,Shooting,CZE,9
+801,Shooting,DEN,24
+802,Shooting,ESP,3
+803,Shooting,EUN,8
+804,Shooting,FIN,41
+805,Shooting,FRA,69
+806,Shooting,FRG,11
+807,Shooting,GBR,99
+808,Shooting,GDR,16
+809,Shooting,GEO,1
+810,Shooting,GER,31
+811,Shooting,GRE,16
+812,Shooting,HAI,5
+813,Shooting,HUN,17
+814,Shooting,IND,4
+815,Shooting,IOA,5
+816,Shooting,ITA,43
+817,Shooting,JPN,6
+818,Shooting,KAZ,3
+819,Shooting,KOR,16
+820,Shooting,KUW,2
+821,Shooting,LAT,1
+822,Shooting,LTU,1
+823,Shooting,MDA,1
+824,Shooting,MEX,1
+825,Shooting,MGL,2
+826,Shooting,NED,6
+827,Shooting,NOR,77
+828,Shooting,NZL,2
+829,Shooting,PER,3
+830,Shooting,POL,12
+831,Shooting,POR,1
+832,Shooting,PRK,3
+833,Shooting,QAT,1
+834,Shooting,ROU,15
+835,Shooting,RSA,5
+836,Shooting,RUS,36
+837,Shooting,SCG,4
+838,Shooting,SLO,3
+839,Shooting,SRB,2
+840,Shooting,SUI,53
+841,Shooting,SVK,5
+842,Shooting,SWE,126
+843,Shooting,TCH,9
+844,Shooting,UAE,1
+845,Shooting,UKR,8
+846,Shooting,URS,49
+847,Shooting,USA,190
+848,Shooting,VEN,1
+849,Shooting,VIE,2
+850,Shooting,YUG,3
+851,Softball,AUS,60
+852,Softball,CHN,15
+853,Softball,JPN,44
+854,Softball,USA,60
+855,Swimming,ANZ,11
+856,Swimming,ARG,3
+857,Swimming,AUS,401
+858,Swimming,AUT,15
+859,Swimming,BEL,5
+860,Swimming,BLR,3
+861,Swimming,BRA,20
+862,Swimming,BUL,3
+863,Swimming,CAN,98
+864,Swimming,CHN,70
+865,Swimming,CRC,4
+866,Swimming,CRO,1
+867,Swimming,CUB,2
+868,Swimming,DEN,21
+869,Swimming,ESP,8
+870,Swimming,EUN,30
+871,Swimming,FIN,4
+872,Swimming,FRA,80
+873,Swimming,FRG,59
+874,Swimming,GBR,127
+875,Swimming,GDR,152
+876,Swimming,GER,156
+877,Swimming,GRE,1
+878,Swimming,HUN,92
+879,Swimming,IRL,4
+880,Swimming,ITA,27
+881,Swimming,JPN,123
+882,Swimming,KAZ,1
+883,Swimming,KOR,4
+884,Swimming,LTU,1
+885,Swimming,MEX,2
+886,Swimming,NED,114
+887,Swimming,NOR,2
+888,Swimming,NZL,6
+889,Swimming,PHI,2
+890,Swimming,POL,6
+891,Swimming,ROU,9
+892,Swimming,RSA,27
+893,Swimming,RUS,43
+894,Swimming,SGP,1
+895,Swimming,SLO,1
+896,Swimming,SRB,1
+897,Swimming,SUI,1
+898,Swimming,SUR,2
+899,Swimming,SVK,2
+900,Swimming,SWE,70
+901,Swimming,TTO,1
+902,Swimming,TUN,3
+903,Swimming,UKR,7
+904,Swimming,URS,124
+905,Swimming,USA,1078
+906,Swimming,VEN,1
+907,Swimming,YUG,2
+908,Swimming,ZIM,7
+909,Synchronized Swimming,CAN,26
+910,Synchronized Swimming,CHN,31
+911,Synchronized Swimming,ESP,20
+912,Synchronized Swimming,FRA,2
+913,Synchronized Swimming,JPN,52
+914,Synchronized Swimming,RUS,54
+915,Synchronized Swimming,USA,30
+916,Table Tennis,CHN,81
+917,Table Tennis,DEN,2
+918,Table Tennis,FRA,3
+919,Table Tennis,GER,16
+920,Table Tennis,HKG,2
+921,Table Tennis,JPN,10
+922,Table Tennis,KOR,33
+923,Table Tennis,PRK,5
+924,Table Tennis,SGP,7
+925,Table Tennis,SWE,3
+926,Table Tennis,TPE,2
+927,Table Tennis,YUG,4
+928,Taekwondo,AFG,2
+929,Taekwondo,ARG,1
+930,Taekwondo,AUS,2
+931,Taekwondo,AZE,3
+932,Taekwondo,BRA,2
+933,Taekwondo,CAN,2
+934,Taekwondo,CHN,10
+935,Taekwondo,CIV,2
+936,Taekwondo,COL,1
+937,Taekwondo,CRO,3
+938,Taekwondo,CUB,5
+939,Taekwondo,DOM,2
+940,Taekwondo,EGY,2
+941,Taekwondo,ESP,6
+942,Taekwondo,FRA,7
+943,Taekwondo,GAB,1
+944,Taekwondo,GBR,6
+945,Taekwondo,GER,2
+946,Taekwondo,GRE,4
+947,Taekwondo,IRI,6
+948,Taekwondo,ITA,3
+949,Taekwondo,JOR,1
+950,Taekwondo,JPN,1
+951,Taekwondo,KAZ,1
+952,Taekwondo,KOR,19
+953,Taekwondo,MEX,7
+954,Taekwondo,NGR,1
+955,Taekwondo,NIG,1
+956,Taekwondo,NOR,2
+957,Taekwondo,RUS,4
+958,Taekwondo,SRB,2
+959,Taekwondo,THA,5
+960,Taekwondo,TPE,8
+961,Taekwondo,TUN,1
+962,Taekwondo,TUR,7
+963,Taekwondo,USA,9
+964,Taekwondo,VEN,2
+965,Taekwondo,VIE,1
+966,Tennis,ANZ,1
+967,Tennis,ARG,7
+968,Tennis,AUS,9
+969,Tennis,AUT,2
+970,Tennis,BEL,3
+971,Tennis,BLR,3
+972,Tennis,BOH,5
+973,Tennis,BUL,1
+974,Tennis,CAN,2
+975,Tennis,CHI,5
+976,Tennis,CHN,4
+977,Tennis,CRO,5
+978,Tennis,CZE,10
+979,Tennis,DEN,1
+980,Tennis,ESP,19
+981,Tennis,EUN,3
+982,Tennis,FRA,38
+983,Tennis,FRG,3
+984,Tennis,GBR,64
+985,Tennis,GER,14
+986,Tennis,GRE,9
+987,Tennis,IND,1
+988,Tennis,ITA,1
+989,Tennis,JPN,4
+990,Tennis,NED,4
+991,Tennis,NOR,1
+992,Tennis,PUR,1
+993,Tennis,ROU,2
+994,Tennis,RSA,8
+995,Tennis,RUS,10
+996,Tennis,SRB,1
+997,Tennis,SUI,6
+998,Tennis,SWE,14
+999,Tennis,TCH,7
+1000,Tennis,USA,62
+1001,Trampolining,AUS,1
+1002,Trampolining,BLR,1
+1003,Trampolining,CAN,7
+1004,Trampolining,CHN,11
+1005,Trampolining,GBR,1
+1006,Trampolining,GER,2
+1007,Trampolining,RUS,4
+1008,Trampolining,UKR,2
+1009,Trampolining,UZB,1
+1010,Triathlon,AUS,5
+1011,Triathlon,AUT,1
+1012,Triathlon,CAN,2
+1013,Triathlon,CZE,1
+1014,Triathlon,ESP,1
+1015,Triathlon,GBR,5
+1016,Triathlon,GER,2
+1017,Triathlon,NZL,3
+1018,Triathlon,POR,1
+1019,Triathlon,RSA,1
+1020,Triathlon,SUI,5
+1021,Triathlon,SWE,1
+1022,Triathlon,USA,2
+1023,Tug-Of-War,BEL,8
+1024,Tug-Of-War,COL,1
+1025,Tug-Of-War,DEN,3
+1026,Tug-Of-War,FRA,5
+1027,Tug-Of-War,GBR,40
+1028,Tug-Of-War,GER,9
+1029,Tug-Of-War,GRE,8
+1030,Tug-Of-War,NED,8
+1031,Tug-Of-War,SWE,19
+1032,Tug-Of-War,USA,14
+1033,Volleyball,ARG,12
+1034,Volleyball,BRA,120
+1035,Volleyball,BUL,22
+1036,Volleyball,CHN,66
+1037,Volleyball,CUB,52
+1038,Volleyball,EUN,8
+1039,Volleyball,GDR,24
+1040,Volleyball,ITA,72
+1041,Volleyball,JPN,101
+1042,Volleyball,KOR,12
+1043,Volleyball,NED,24
+1044,Volleyball,PER,12
+1045,Volleyball,POL,34
+1046,Volleyball,PRK,11
+1047,Volleyball,ROU,10
+1048,Volleyball,RUS,70
+1049,Volleyball,SCG,23
+1050,Volleyball,SRB,12
+1051,Volleyball,TCH,23
+1052,Volleyball,URS,141
+1053,Volleyball,USA,120
+1054,Water Polo,AUS,39
+1055,Water Polo,BEL,54
+1056,Water Polo,CRO,38
+1057,Water Polo,ESP,36
+1058,Water Polo,EUN,13
+1059,Water Polo,FRA,30
+1060,Water Polo,FRG,12
+1061,Water Polo,GBR,28
+1062,Water Polo,GER,27
+1063,Water Polo,GRE,13
+1064,Water Polo,HUN,172
+1065,Water Polo,ITA,120
+1066,Water Polo,NED,31
+1067,Water Polo,NZL,1
+1068,Water Polo,RUS,51
+1069,Water Polo,SCG,25
+1070,Water Polo,SRB,39
+1071,Water Polo,SWE,24
+1072,Water Polo,URS,78
+1073,Water Polo,USA,150
+1074,Water Polo,YUG,76
+1075,Weightlifting,ARG,2
+1076,Weightlifting,ARM,7
+1077,Weightlifting,AUS,4
+1078,Weightlifting,AUT,11
+1079,Weightlifting,AZE,1
+1080,Weightlifting,BEL,4
+1081,Weightlifting,BLR,12
+1082,Weightlifting,BUL,36
+1083,Weightlifting,CAN,3
+1084,Weightlifting,CHN,57
+1085,Weightlifting,COL,6
+1086,Weightlifting,CRO,2
+1087,Weightlifting,CUB,5
+1088,Weightlifting,DEN,1
+1089,Weightlifting,EGY,11
+1090,Weightlifting,ESP,1
+1091,Weightlifting,EST,7
+1092,Weightlifting,EUN,9
+1093,Weightlifting,FIN,3
+1094,Weightlifting,FRA,16
+1095,Weightlifting,FRG,7
+1096,Weightlifting,GBR,5
+1097,Weightlifting,GDR,11
+1098,Weightlifting,GEO,4
+1099,Weightlifting,GER,25
+1100,Weightlifting,GRE,14
+1101,Weightlifting,HUN,20
+1102,Weightlifting,INA,10
+1103,Weightlifting,IND,1
+1104,Weightlifting,IRI,18
+1105,Weightlifting,IRQ,1
+1106,Weightlifting,ITA,15
+1107,Weightlifting,JPN,14
+1108,Weightlifting,KAZ,16
+1109,Weightlifting,KOR,12
+1110,Weightlifting,LAT,2
+1111,Weightlifting,LIB,1
+1112,Weightlifting,LTU,1
+1113,Weightlifting,LUX,1
+1114,Weightlifting,MDA,2
+1115,Weightlifting,MEX,1
+1116,Weightlifting,NED,3
+1117,Weightlifting,NGR,1
+1118,Weightlifting,NOR,1
+1119,Weightlifting,PHI,1
+1120,Weightlifting,POL,32
+1121,Weightlifting,PRK,17
+1122,Weightlifting,QAT,1
+1123,Weightlifting,ROU,13
+1124,Weightlifting,RUS,26
+1125,Weightlifting,SGP,1
+1126,Weightlifting,SUI,4
+1127,Weightlifting,SWE,4
+1128,Weightlifting,TCH,8
+1129,Weightlifting,THA,11
+1130,Weightlifting,TPE,8
+1131,Weightlifting,TTO,3
+1132,Weightlifting,TUR,12
+1133,Weightlifting,UKR,8
+1134,Weightlifting,URS,62
+1135,Weightlifting,USA,42
+1136,Weightlifting,UZB,1
+1137,Weightlifting,VEN,1
+1138,Weightlifting,VIE,1
+1139,Wrestling,ARM,8
+1140,Wrestling,AUS,3
+1141,Wrestling,AUT,6
+1142,Wrestling,AZE,23
+1143,Wrestling,BEL,4
+1144,Wrestling,BLR,11
+1145,Wrestling,BUL,69
+1146,Wrestling,CAN,17
+1147,Wrestling,CHN,10
+1148,Wrestling,COL,2
+1149,Wrestling,CUB,22
+1150,Wrestling,DEN,13
+1151,Wrestling,EGY,6
+1152,Wrestling,ESP,1
+1153,Wrestling,EST,11
+1154,Wrestling,EUN,16
+1155,Wrestling,FIN,85
+1156,Wrestling,FRA,17
+1157,Wrestling,FRG,9
+1158,Wrestling,GBR,17
+1159,Wrestling,GDR,7
+1160,Wrestling,GEO,18
+1161,Wrestling,GER,34
+1162,Wrestling,GRE,9
+1163,Wrestling,HUN,55
+1164,Wrestling,IND,5
+1165,Wrestling,IRI,43
+1166,Wrestling,ITA,21
+1167,Wrestling,JPN,69
+1168,Wrestling,KAZ,17
+1169,Wrestling,KGZ,2
+1170,Wrestling,KOR,36
+1171,Wrestling,LAT,1
+1172,Wrestling,LIB,3
+1173,Wrestling,LTU,2
+1174,Wrestling,MDA,1
+1175,Wrestling,MEX,1
+1176,Wrestling,MGL,9
+1177,Wrestling,MKD,1
+1178,Wrestling,NOR,8
+1179,Wrestling,PAK,1
+1180,Wrestling,POL,26
+1181,Wrestling,PRK,10
+1182,Wrestling,PUR,1
+1183,Wrestling,ROU,33
+1184,Wrestling,RUS,60
+1185,Wrestling,SRB,1
+1186,Wrestling,SUI,15
+1187,Wrestling,SVK,1
+1188,Wrestling,SWE,86
+1189,Wrestling,SYR,1
+1190,Wrestling,TCH,15
+1191,Wrestling,TJK,1
+1192,Wrestling,TUN,1
+1193,Wrestling,TUR,63
+1194,Wrestling,UAR,1
+1195,Wrestling,UKR,15
+1196,Wrestling,URS,116
+1197,Wrestling,USA,128
+1198,Wrestling,UZB,10
+1199,Wrestling,YUG,16
